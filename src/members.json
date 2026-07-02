@@ -162,12 +162,20 @@
     "batch": "22-26",
     "feeds": ["http://bananameatpatty.vercel.app/blog/index.xml"]
   },
+  {
+    "name": "Ritesh Koushik",
+    "website": "ritesh-koushik.vercel.app",
+    "branch": "CSE",
+    "campus": "Coimbatore",
+    "batch": "22-26",
+    "feeds": ["https://ritesh-koushik.vercel.app"]
+  },
 	{
     "name": "Kishore R",
     "website": "kishoreravikumar.in",
     "branch": "AIE",
     "campus": "Amritapuri",
     "batch": "23-27",
-    "feeds": ["http://kiahoreravikumar.in/rss.xml"]
+    "feeds": ["https://kishoreravikumar.in/rss.xml"]
   }
 ]
